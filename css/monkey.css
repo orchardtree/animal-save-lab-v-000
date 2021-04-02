@@ -15,7 +15,7 @@ html {
   }
 }
 
-@media screen and (min-width: 406px) {
+@media screen and (max-width: 406px) {
   #monkey {
     left: 100px;
   }
